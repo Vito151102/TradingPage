@@ -6,7 +6,7 @@
 @import url("components/banner.css");
 @import url("components/card.css");
 body {
-   font-family: 'Nunito', sans-serif;
+   font-family: 'Georgia', serif;
  	font-size: 18px;
  	margin: Opx;
 }
